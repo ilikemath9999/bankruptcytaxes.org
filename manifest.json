@@ -1,0 +1,16 @@
+{
+  "name": "Tax Debts in Bankruptcy -- Can You Discharge IRS Debt?",
+  "short_name": "bankruptcytaxes.org",
+  "description": "Free guide to discharging tax debts in bankruptcy. Learn the 3-year, 2-year, and 240-day rules for when income tax debts become dischargeable under Chapter 7 or Chapter 13.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
